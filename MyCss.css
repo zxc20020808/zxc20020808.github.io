@@ -1,0 +1,18 @@
+<style>
+    h1{
+        color: #fae5ff
+    }
+    body{
+        font-weight: 800;
+    }
+    #sss_card{
+      background-color: lightsteelblue;
+    }
+    .card{
+        background-color: #85676e;
+    }
+    .card > p{
+        background-color: #667a85;
+        padding: 2px 10px;
+    }
+</style>
